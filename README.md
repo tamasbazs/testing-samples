@@ -3,7 +3,7 @@ Android testing samples
 
 A collection of samples demonstrating different frameworks and techniques for automated testing.
 
-### Espresso Samples
+### Espresso Sample
 
 **[BasicSample](https://github.com/googlesamples/android-testing/blob/master/ui/espresso/BasicSample)** - Basic Espresso sample
 
